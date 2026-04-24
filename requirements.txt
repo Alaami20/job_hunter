@@ -1,0 +1,6 @@
+flask
+openai
+python-jobspy
+pdfminer.six
+python-docx
+PyPDF2
